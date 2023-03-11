@@ -11,7 +11,7 @@ Prompt Examples
 
 Negative prompt text: out of frame, lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature
 
-                                                                        or
+                                                                  or
                                                                         
 poorly Rendered face
 poorly drawn face
@@ -27,3 +27,26 @@ disfigured
 oversaturated
 bad anatomy
 deformed body features 
+
+
+
+
+                                                                  or
+  Blurry, unfocused, pixelated, grainy, distorted, overexposed, underexposed, washed out, dark, dimly lit, poorly lit, flat, lifeless, dull, boring, uninteresting, unappealing, unremarkable, forgettable, low contrast.
+  
+    Unprofessional, amateurish, sloppy, messy, cluttered, disorganized, chaotic, haphazard, careless, rushed, sloppy, lazy, unpolished, unfinished, incomplete, unrefined.
+    
+    Dated, old-fashioned, outdated, obsolete, old-school, antiquated, archaic, vintage, retro, nostalgic, tacky, cheesy, kitschy, campy.
+    Repetitive, unoriginal, cliché, derivative, predictable, formulaic, uninspired, copycat, uncreative, unimaginative, stale, worn out, hackneyed, trite, banal.
+    Offensive, vulgar, tasteless, crude, crass, inappropriate, distasteful, shocking, repulsive, revolting, nauseating, disgusting, disturbing, unsettling, creepy, creepy-crawly.
+    
+    Unusable, broken, glitchy, buggy, faulty, malfunctioning, defective, unreliable, unstable, inconsistent, incompatible, outdated, unsupported.
+    Fake, fraudulent, misleading, deceptive, false, dishonest, phony, counterfeit, forged, fabricated, doctored, manipulated, photoshopped, staged, posed.
+    Unattractive, unappealing, unpleasant, ugly, unsightly, repulsive, repellent, grotesque, hideous, abhorrent, loathsome, detestable, objectionable, repugnant, nauseating.
+    
+    Messed up anatomy, bad proportions, odd angles, distorted perspective, missing body parts, added body parts, twisted limbs, warped features, odd distortions, skewed dimensions.
+    
+    Poorly written, badly edited, grammatically incorrect, misspelled, confusing, incomprehensible, convoluted, pretentious, shallow, trite, cliché, boring, tedious, uninspired.
+    
+    Inappropriate size, wrong format, poor composition, poor framing, poorly cropped, badly resized, incorrect aspect ratio, poor alignment, poor balance, poor contrast, poor color balance, poor saturation.                                                                
+                                                                  
