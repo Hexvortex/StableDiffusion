@@ -1,6 +1,6 @@
 # StableDiffusionPrompts
 
-Feel free to add your own prompts to this list
+Feel free to add your own prompts on this list
 
 Prompt Examples
 
