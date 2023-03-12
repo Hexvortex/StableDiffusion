@@ -1,5 +1,7 @@
 # StableDiffusionPrompts
 
+Feel free to add your own prompts to this list
+
 Prompt Examples
 
 1. Kim Kardashian full body shot, Extra large eyes, Highly detailed eyes, fine details wet skin, highly detailed bodyshot, beautiful big symmetrical eyes, a stunningly beautiful seducer of chaos played by kim kardashian, intricate, au naturel, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by klimt and nixeu and ian sprigger and wlop and krenz cushart
